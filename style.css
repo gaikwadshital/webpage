@@ -1,0 +1,43 @@
+.jumbotron.jumbotron-fluid{ background-color:pink;
+/* border-top: 3px solid black; */
+/* border-bottom: 3px solid black; */
+/* border-left: 3px solid black; */
+/* border-right: 3px solid black; */
+text-align: center;
+padding: 300px;
+}
+.img {
+width: 20em;
+height:20em;
+}
+.card {
+align-items: center;
+padding: .4em;
+margin:0.5em;
+}
+#basic{
+    text-align: center;
+    padding:1em;
+}
+#about{
+    text-align: center;
+}
+.row{
+    background-color: pink;
+}
+.tx{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+    padding: 1em;
+}
+footer{
+    padding-top: 2em;
+ 
+}
+form{
+    /* text-align: center; */
+    width: 25%;
+    margin:auto;
+}
